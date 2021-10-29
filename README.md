@@ -1,5 +1,5 @@
-## ml_api: API для обучения ML-моделей
-В рамках выполнения Домашнего задания 1 по курсу "Python: продвинутый уровень" было реализовано API для обучения ML-моделей __ml_api__ и использующий его Telegram-бот [@fast_ml_bot](https://t.me/fast_ml_bot).
+# ml_api: API для обучения ML-моделей
+В рамках выполнения Домашнего задания 1 по курсу "Python: продвинутый уровень" было реализовано API для обучения ML-моделей __ml_api__ и использующий его Telegram-бот [__@fast_ml_bot__](https://t.me/fast_ml_bot).
 
 Для запуска проекта необходимо установить зависимости из файла requirements.txt:
 ```
@@ -10,7 +10,7 @@ pip install -r requirements.txt
 python setup.py
 ``` 
 
-### API
+## API
 С помощью __ml_api__ можно:
 
 1. Вернуть список доступных для обучения классов моделей
@@ -27,9 +27,9 @@ python setup.py
 
 Подрбный пример использования представлен в ноутбуке [API-example.ipynb](API-example.ipynb).
 
-### Telegram-бот
+## Telegram-бот
 
-Для использования данного API также реализован Telegram-бот [@fast_ml_bot](https://t.me/fast_ml_bot). 
+Для использования данного API также реализован Telegram-бот [__@fast_ml_bot__](https://t.me/fast_ml_bot). 
 За основу взята статья https://habr.com/ru/post/496516/. 
 
 Доступные команды:
