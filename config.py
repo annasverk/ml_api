@@ -1,0 +1,3 @@
+HOST = '0.0.0.0'
+PORT = 5000
+TOKEN = '1969472127:AAEza8Lfc3NEvqjhm_eszai0SCd_Dz9i8J8'
